@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grillinsky
-- 👀 I’m interested in JavaScript, React, Flutter, Swift, UX, UI, Machine Learning, Augmented Reality, Electric transportation, and moving the world to a Cabon-Zero Future
+- 👀 I’m interested in JavaScript, React, Vue, Swift, UX, UI, Augmented Reality,Habitable cities, Electric transportation, and moving the world to a Cabon-Zero Future
 - 🌱 I’m currently learning HTML, CSS,  JavaScript & Vue.js
 - Recently FCC Certified https://freecodecamp.org/certification/grillinsy/responsive-web-design 
 - Recently Hack Academy Certified https://postlmg.cc/DJ9fRVbw
