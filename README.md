@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grillinsky
-- 👀 I’m interested in Cybersecurity, App Debelopping, Augmented Reality,Habitable cities, Electric transportation and environmentally councious bcode
-- 🌱 I’m currently learning JavaScript & Vue.js
+- 👀 I’m interested in React & React Native apps, Cybersecurity, Augmented Reality, Habitable cities, Electric transportation and Accesible & Environmentally councious Code
+- 🌱 I’m currently learning JavaScript, React, SQL, Vue.js
 - Recently FCC Certified https://freecodecamp.org/certification/grillinsy/responsive-web-design 
 - Recently Hack Academy Certified https://postlmg.cc/DJ9fRVbw
 - 💞️ I’m looking to collaborate on Front-End Developing
