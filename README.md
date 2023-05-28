@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Grillinsky
-- 👀 I’m interested in React & React Native apps, Cybersecurity, Augmented Reality, Habitable cities, Electric transportation and Accesible & Environmentally councious Code
-- 🌱 I’m currently learning JavaScript, React, SQL, Vue.js
-- Recently FCC Certified https://freecodecamp.org/certification/grillinsy/responsive-web-design 
-- Recently Hack Academy Certified https://postlmg.cc/DJ9fRVbw
+- 👋 Hey there! My name is Martin and I'm from Montevideo 
+- 👀 I love front end developing & making fun things with HTML CSS & JS! I’m interested in React & React Native apps, Cybersecurity and Accesible & Environmentally councious Code
+- 🌱 I’m currently learning JavaScript, React, SQL, Vue.js, MongoDB
+- 📃Recently FCC Certified https://freecodecamp.org/certification/grillinsy/responsive-web-design 
+- 📃Recently Hack Academy Certified https://postlmg.cc/DJ9fRVbw
 - 💞️ I’m looking to collaborate on Front-End Developing
 - 📫 How to reach me: 
 -     http://martingrillo.netlify.app
